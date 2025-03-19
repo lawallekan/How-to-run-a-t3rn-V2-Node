@@ -13,7 +13,7 @@ To run a t3rn node, you’ll need a Virtual Private Server (VPS). Here’s how t
 
 1. **Choose a VPS Provider**:  
    We recommend using **CLOUP VPS 2 on Contabo** for its affordability and reliability.  
-   [Get Contabo VPS Here]([https://www.tkqlhce.com/click-101114590-13484397](https://www.tkqlhce.com/5k117cy63y5LNMNPTTSSSLNRMOOPST?sid=medium)).  
+   [Get Contabo VPS Here]([https://www.tkqlhce.com/click-101114590-13484397](https://www.tkqlhce.com/5k117cy63y5LNMNPTTSSSLNRMOOPST?sid=medium).  
 
 2. **Select Ubuntu 22.04**:  
    During setup, choose **Ubuntu 22.04** as your operating system. This version is stable and widely supported.  
