@@ -74,7 +74,7 @@ apt install screen
 ### **3. Download t3rn Binaries**  
 Download the t3rn executor binaries:  
 ```bash  
-wget https://github.com/t3rn/executor-release/releases/download/v0.53.1/executor-linux-v0.53.1.tar.gz  
+wget https://github.com/t3rn/executor-release/releases/download/v0.57.0/executor-linux-v0.57.0.tar.gz
 ```  
 
 ### **4. Extract the Binaries**  
