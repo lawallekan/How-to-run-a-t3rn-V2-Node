@@ -80,7 +80,7 @@ wget https://github.com/t3rn/executor-release/releases/download/v0.57.0/executor
 ### **4. Extract the Binaries**  
 Unzip the downloaded file:  
 ```bash  
-tar -xvzf executor-linux-v0.53.1.tar.gz  
+tar -xvzf executor-linux-v0.57.0.tar.gz  
 ```  
 
 ### **5. Navigate to the Executor Directory**  
